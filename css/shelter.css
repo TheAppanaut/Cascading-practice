@@ -1,0 +1,42 @@
+html {
+    font-family: sans-serif;
+}
+
+img {
+  width: 90%;
+}
+
+.pet1, .pet2, .pet3, .pet4 {
+  float: left;
+  width: 18%;
+  padding: 2%;
+  margin: 1%;
+}
+
+h3 {
+  text-align: center;
+}
+
+.pet1 {
+  background-color: #b77aab;
+  border: 1px #984c8a solid;
+  color: #3d0031;
+}
+
+.pet2 {
+  background-color: #ec9dae;
+  border: 1px #c56277 solid;
+  color: #4f0011;
+}
+
+.pet3 {
+  background-color: #aede94;
+  border: 1px #7db95c solid;
+  color: #1a4a00;
+}
+
+.pet4 {
+  background-color: #e1f4a2;
+  border: 1px #b4cb65 solid;
+  color: #3f5100;
+}
