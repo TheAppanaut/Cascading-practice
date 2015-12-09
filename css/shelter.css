@@ -1,5 +1,6 @@
 html {
     font-family: sans-serif;
+    background-color: #9a4f8c;
 }
 
 img {
@@ -18,25 +19,35 @@ h3 {
 }
 
 .pet1 {
-  background-color: #b77aab;
-  border: 1px #984c8a solid;
-  color: #3d0031;
+  background-color: #79286a;
+  border: 1px #9a4f8c solid;
+  color: #24001d;
 }
 
 .pet2 {
-  background-color: #ec9dae;
-  border: 1px #c56277 solid;
-  color: #4f0011;
+  background-color: #9d344a;
+  border: 1px #c7657a solid;
+  color: #2f000a;
 }
 
 .pet3 {
-  background-color: #aede94;
-  border: 1px #7db95c solid;
-  color: #1a4a00;
+  background-color: #539331;
+  border: 1px #7fbb5f solid;
+  color: #0f2c00;
 }
 
 .pet4 {
-  background-color: #e1f4a2;
-  border: 1px #b4cb65 solid;
-  color: #3f5100;
+  background-color: #8aa236;
+  border: 1px #b7cd69 solid;
+  color: #253000;
+}
+
+.header h1, .header h2 {
+  text-align: center;
+}
+
+.header {
+  border: 2px #539331 solid;
+  margin-bottom: 2%;
+  background-color: #7fbb5f;
 }
