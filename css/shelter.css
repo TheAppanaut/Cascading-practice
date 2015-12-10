@@ -1,6 +1,6 @@
 html {
     font-family: sans-serif;
-    background-color: #9a4f8c;
+    background-color: #684f91;
 }
 
 img {
@@ -19,27 +19,27 @@ h3 {
 }
 
 .pet1 {
-  background-color: #79286a;
-  border: 1px #9a4f8c solid;
-  color: #24001d;
+  background-color: #a171a7;
+  border: 1px #4b0f54 solid;
+  color: #310138
 }
 
 .pet2 {
-  background-color: #9d344a;
-  border: 1px #c7657a solid;
-  color: #2f000a;
+  background-color: #8d79ae;
+  border: 1px #2e1557 solid;
+  color: #19053a;
 }
 
 .pet3 {
-  background-color: #539331;
-  border: 1px #7fbb5f solid;
-  color: #0f2c00;
+  background-color: #8d79ae;
+  border: 1px #2e1557 solid;
+  color: #19053a;
 }
 
 .pet4 {
-  background-color: #8aa236;
-  border: 1px #b7cd69 solid;
-  color: #253000;
+  background-color: #a171a7;
+  border: 1px #4b0f54 solid;
+  color: #310138;
 }
 
 .header h1, .header h2 {
@@ -47,7 +47,7 @@ h3 {
 }
 
 .header {
-  border: 2px #539331 solid;
+  border: 2px #83478b solid;
   margin-bottom: 2%;
-  background-color: #7fbb5f;
+  background-color: #a171a7;
 }
